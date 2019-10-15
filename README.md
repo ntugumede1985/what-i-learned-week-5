@@ -17,7 +17,10 @@
     *Ugly Webby 2.0
         - I felt comfortable this time!
     *Dommer Party
-        -
-# Challenges From Week-5
-    *Programming Axioms
+        - verbalizing the code and pairing up worked to think out loud in code
+        - the other 
+# Take Aways from Week-5
+    *CodeSmith Meetups
+        - Different learning perspective
+    *Fostering Community with Term-2
      
